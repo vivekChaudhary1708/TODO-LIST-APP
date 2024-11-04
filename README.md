@@ -2,7 +2,7 @@
 
 Welcome to the **Todo List App**, a project designed to simplify task management for users. This application helps you keep track of tasks, organize priorities, and stay productive throughout the day.
 
-![Todo List App Screenshot](screenshot.png)  <!-- Replace this with a screenshot of your app -->
+
 
 ## Table of Contents
 
