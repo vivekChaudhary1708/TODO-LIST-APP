@@ -52,7 +52,7 @@ Welcome to the **Todo List App**, a project designed to simplify task management
 2. **Responsive Design**: Making sure the app looks good on all devices.
 
 
-Usage
+## Usage
 Using the Todo List app is straightforward. Here’s a breakdown of each action you can perform:
 
 Add a Task
