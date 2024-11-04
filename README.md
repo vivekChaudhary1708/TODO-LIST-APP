@@ -86,10 +86,23 @@ Persistent Storage
 
 
 
-## Getting Started
+## Contributing
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/vivekChaudhary1708/todo-list.git
 
+
+
+## License
+This project is licensed under the MIT License.
+
+MIT License grants the following permissions:
+
+You are free to use, copy, modify, merge, publish, and distribute the code.
+You are allowed to sublicense or sell copies of the code.
+However, the following conditions apply:
+
+Attribution: You must include the original copyright notice and this permission notice in all copies or substantial portions of the code.
+No Warranty: This software is provided "as-is" without any warranty, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
